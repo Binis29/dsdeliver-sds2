@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:wght@400;700&display=swap');
+
+:root {
+    /*variáveis css*/
+  --primary-color: #da5c5c;
+  --primary-hover-color: #a74b4b;
+  --dark-color: #263238;
+  --secondary-color: #9E9E9E;
+  --light-color: #F5F5F5;
+}
+
+html, body {
+  margin: 0;
+  padding:0;
+}
+
+body {
+  font-family: 'Noto Sans', sans-serif;
+}
+
+/*remove todas as decorações dos textos, ex: sublinhado*/
+a {
+  text-decoration: none;
+}
