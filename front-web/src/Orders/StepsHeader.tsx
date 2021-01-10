@@ -1,5 +1,3 @@
-import './styles.css';
-
 function StepsHeader() {
     return (
         <header className="orders-steps-container">
@@ -7,8 +5,6 @@ function StepsHeader() {
                 <h1 className="steps-title">
                     SIGA AS <br /> ETAPAS
                 </h1>
-            </div>
-            <div>
                 <ul className="steps-items">
                     <li>
                         <span className="steps-number">1</span>

@@ -42,7 +42,7 @@
   font-weight: bold;
   font-size: 24px;
   letter-spacing: -0.015em;
-  color: #FFF;
+  color: #fff;
 }
 
 .home-btn-order:hover {
@@ -67,7 +67,7 @@
   .home-title {
     font-size: 40px;
   }
-  
+
   .home-subtitle {
     text-align: center;
   }
@@ -83,7 +83,7 @@
   }
 
   .home-image svg {
-    width: 100%;
+    width: 80%;
   }
 }
 
